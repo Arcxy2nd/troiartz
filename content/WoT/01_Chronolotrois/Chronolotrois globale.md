@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.350+01:00","modified":"2025-12-07T08:28:03.219+01:00","published":"2025-12-07T08:28:03.219+01:00","tags":["Chronologie","Index"],"cssclasses":""}
+{"publish":true,"created":"2025-12-17T22:06:50.350+01:00","modified":"2025-12-18T19:11:44.929+01:00","published":"2025-12-18T19:11:44.929+01:00","tags":["Chronologie","Index"],"cssclasses":""}
 ---
 
 
@@ -18,7 +18,10 @@ Guide des calendriers servant de repère pour construire l’histoire.
    *(Un temps inconnu sépare cette ère du suivant)*
 
 3. **[[WoT/01_Chronolotrois/02_Calendrier Lithique]]**
-   *Troisième calendrier, débute à l'éveil du MAMMOUTH.*
+   *Troisième calendrier, débute à l'éveil du MAMMOUTH, l'ère Primordiale.*
 
 4. **[[WoT/01_Chronolotrois/03_Calendrier Galetien]]**
-   *Dernier calendrier, couvre l'Ère des Cailloux et l'Ère des Trois.*
+   *Avant-calendrier, débute à la métamorphose d'Orstrois. Couvre l'ère des Cailloux, l'ère des Trois ainsi que l'ère des Troisvengers.*
+
+5. **[[WoT/01_Chronolotrois/04_Calendrier Quarthzatique]]**
+   *Dernier calendrier, débute à la Pierrification. Couvre les ères restantes.*

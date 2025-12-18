@@ -12,12 +12,12 @@
 
 
 ### ⏳ 01_Chronolotrois
+- [[WoT/01_Chronolotrois/Chronolotrois globale\|Chronolotrois globale]]
 - [[WoT/01_Chronolotrois/04_Calendrier Quarthzatique\|04_Calendrier Quarthzatique]]
 - [[WoT/01_Chronolotrois/03_Calendrier Galetien\|03_Calendrier Galetien]]
 - [[WoT/01_Chronolotrois/02_Calendrier Lithique\|02_Calendrier Lithique]]
 - [[WoT/01_Chronolotrois/01_Calendrier Zérique\|01_Calendrier Zérique]]
 - [[WoT/01_Chronolotrois/00_Calendrier de Taguèle\|00_Calendrier de Taguèle]]
-- [[WoT/01_Chronolotrois/Chronolotrois globale\|Chronolotrois globale]]
 
 
 ### 🌌 10_Domaine primordial
@@ -31,6 +31,7 @@
 
 
 ### 🌍 20_Monde
+- [[WoT/20_Monde/Trucs du monde/Daily Taguèle et Troisporters\|Daily Taguèle et Troisporters]]
 - [[WoT/20_Monde/Lieux/Emplacements/Universinan du Nan\|Universinan du Nan]]
 - [[WoT/20_Monde/Trucs du monde/Regal Trois\|Regal Trois]]
 - [[WoT/20_Monde/Lieux/Troisguèle/Troisguèle (planète)\|Troisguèle (planète)]]
@@ -40,7 +41,6 @@
 - [[WoT/20_Monde/Trucs du monde/Lusa Wooow\|Lusa Wooow]]
 - [[WoT/20_Monde/Trucs du monde/Xing Trois\|Xing Trois]]
 - [[WoT/20_Monde/Trucs du monde/Uber Nan\|Uber Nan]]
-- [[WoT/20_Monde/Lieux/Taguèle/Taguèle (terre)\|Taguèle (terre)]]
 
 
 ### 👤 30_Personnages
@@ -86,6 +86,9 @@
 
 
 ### 📜 80_Histroisre
+- [[WoT/80_Histroisre/Notes comme ça/IA sur multiplications\|IA sur multiplications]]
+- [[WoT/80_Histroisre/Trucs de l'histroisre/Robot géant TroisVengers\|Robot géant TroisVengers]]
+- [[WoT/80_Histroisre/Trucs de l'histroisre/Livres de Az-nan Triks\|Livres de Az-nan Triks]]
 - [[WoT/80_Histroisre/Notes comme ça/Formes des personnages\|Formes des personnages]]
 - [[WoT/80_Histroisre/Notes comme ça/Ratio Caillou-Trois des Trois\|Ratio Caillou-Trois des Trois]]
 - [[WoT/80_Histroisre/Notes comme ça/P = C x W\|P = C x W]]
@@ -93,16 +96,12 @@
 - [[WoT/80_Histroisre/Trucs de l'histroisre/Classement des puissances comme les stèles des 7 pouvoirs dans Mushoku Tensei\|Classement des puissances comme les stèles des 7 pouvoirs dans Mushoku Tensei]]
 - [[WoT/80_Histroisre/Trucs de l'histroisre/Aintrois scale\|Aintrois scale]]
 - [[WoT/80_Histroisre/Trucs de l'histroisre/Examinrgh Huntrois\|Examinrgh Huntrois]]
-- [[WoT/80_Histroisre/Sommaire\|Sommaire]]
-- [[WoT/80_Histroisre/Trucs de l'histroisre/Orstrois héro mondial - épilogue MHA\|Orstrois héro mondial - épilogue MHA]]
-- [[WoT/80_Histroisre/Trucs de l'histroisre/Az-nan exploration par les Orotrois\|Az-nan exploration par les Orotrois]]
 
 
 ### 💫 90_Fins Alternatives
 
 
 ### 🖼️ 99_Medias
-- [[WoT/99_Medias/World of TROIS _ PDF\|World of TROIS _ PDF]]
 
 
 ## Actions rapides
