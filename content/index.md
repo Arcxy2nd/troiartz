@@ -99,15 +99,8 @@
 
 
 ### 💫 90_Fins Alternatives
+- [[WoT/90_Fins alternatives/00_Nexus des convergences\|00_Nexus des convergences]]
 
 
-### 🖼️ 99_Medias
 
 
-## Actions rapides
-
-*   [[WoT/00_Metatrois (Gestion)/Templates/personnage\|Créer un nouveau personnage]]
-*   [[WoT/00_Metatrois (Gestion)/Templates/lieu\|Créer un nouveau lieu]]
-*   [[WoT/00_Metatrois (Gestion)/Templates/race\|Créer une nouvelle race]]
-*   [[WoT/00_Metatrois (Gestion)/Templates/faction\|Créer une nouvelle faction]]
-*   [[search_files\|Rechercher des notes]]

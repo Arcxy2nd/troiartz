@@ -214,6 +214,6 @@
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois & Quatre implosion de Taguèle]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois a fait les chiffres lui-même alors qu'ils se sont accouplés]]
 	- [[WoT/80_Histroisre/Sommaire]]
-- **90_Arcs alternatifs**
-
+- **90_Fins alternatives**
+	- [[WoT/90_Fins alternatives/00_Nexus des convergences]]
 
