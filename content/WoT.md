@@ -210,6 +210,7 @@
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Orstrois héro mondial - épilogue MHA]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Réunion tah l'akatsuki des FantasQuatres]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Réveil de Pierrification]]
+		- [[WoT/80_Histroisre/Trucs de l'histroisre/Révélations de l'Indiffenan]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Robot géant TroisVengers]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois & Quatre implosion de Taguèle]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois a fait les chiffres lui-même alors qu'ils se sont accouplés]]

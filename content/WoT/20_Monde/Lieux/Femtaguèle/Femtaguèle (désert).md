@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.505+01:00","modified":"2025-12-11T12:58:28.585+01:00","published":"2025-12-11T12:58:28.585+01:00","cssclasses":"","canvas":["[[03_Troisième face.canvas]]"],"03_Troisième face":["[[WoT/20_Monde/Lieux/Taguèle/Taguèle (arbre-monde)]]"]}
+{"publish":true,"created":"2025-12-17T22:06:50.505+01:00","modified":"2025-12-18T21:33:06.708+01:00","published":"2025-12-18T21:33:06.708+01:00","cssclasses":"","type":"lieu","type de lieu":"emplacement","se_situe":["[[WoT/20_Monde/Lieux/Troisguèle/Troisguèle (planète)]]"],"contient":["[[WoT/20_Monde/Lieux/Taguèle/Taguèle (arbre-monde)]]"],"époque_clé":["[[00_Calendrier de Taguèle]]"],"inspi":null,"tags":null,"canvas":["[[03_Troisième face.canvas]]"],"03_Troisième face":["[[Taguèle (arbre-monde)]]"]}
 ---
 
 # Infobox :
 
 > [!situe] Se situe :
-> [[WoT/20_Monde/Lieux/Troisguèle/Troisguèle (planète)]] 
+> [[Troisguèle (planète)]] 
 
 >[!contient] Contient :
 >[[Taguèle (arbre-monde)]]
