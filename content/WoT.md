@@ -214,6 +214,8 @@
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois & Quatre implosion de Taguèle]]
 		- [[WoT/80_Histroisre/Trucs de l'histroisre/Trois a fait les chiffres lui-même alors qu'ils se sont accouplés]]
 	- [[WoT/80_Histroisre/Sommaire]]
+- **85_Idées**
+	- [[WoT/85_Idées/idée]]
 - **90_Fins alternatives**
 	- [[WoT/90_Fins alternatives/00_Nexus des convergences]]
 	- [[WoT/90_Fins alternatives/Absolute Dark Armenien (A.D.A)]]
