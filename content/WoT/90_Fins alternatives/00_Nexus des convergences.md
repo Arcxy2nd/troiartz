@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-18T20:35:00.294+01:00","modified":"2025-12-18T20:53:11.537+01:00","published":"2025-12-18T20:53:11.537+01:00","tags":["bordel","alternatif"],"cssclasses":"","type":"autre","se_situe":["[[Tétraèdre]]"],"contient":["tous les mondes alternatifs"],"époque_clé":["[[03_Calendrier Galetien]]","[[02_Calendrier Lithique]]"],"inspi":["bordel"]}
+{"publish":true,"created":"2025-12-18T20:35:00.294+01:00","modified":"2025-12-18T21:47:41.860+01:00","published":"2025-12-18T21:47:41.860+01:00","tags":["bordel","alternatif"],"cssclasses":"","type":"autre","se_situe":["[[Tétraèdre]]"],"contient":["tous les mondes alternatifs"],"époque_clé":null,"inspi":["bordel"]}
 ---
 
 Le **Nexus des Convergences** est le cœur géométrique du **Monde à Trois Faces** (le tétraèdre). C'est une **singularité dense** et un point de friction intense situé là où l'influence de toutes les faces du **Tétrèdre** se heurtent de plein fouet. C'est l'instabilité de ce centre qui provoque la **fracture de la réalité**, engendrant les divergences temporelles et les fins alternatives de l'histoire.
