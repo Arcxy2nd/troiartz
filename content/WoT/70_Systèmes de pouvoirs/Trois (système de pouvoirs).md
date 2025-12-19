@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.238+01:00","modified":"2025-12-17T19:12:37.145+01:00","published":"2025-12-17T19:12:37.145+01:00","cssclasses":"","type":"système de pouvoir"}
+{"publish":true,"created":"2025-12-17T22:06:51.238+01:00","modified":"2025-12-19T16:17:33.098+01:00","published":"2025-12-19T16:17:33.098+01:00","tags":["pouvoirs"],"cssclasses":"","type":"système de pouvoir"}
 ---
 
 # 🌀 Mécanique de l'Énergie du Trois
@@ -23,3 +23,14 @@ L'énergie opère selon un mécanisme précis :
 - **Distorsion de la Réalité :** Ce qui n'était qu'une simple caractéristique devient une règle intangible. L'individu ne "fait" pas quelque chose, il _devient_ l'incarnation d'un concept qui force l'environnement à se plier à sa propre logique.
 
 En résumé, le Trois fournit le "carburant" infini qui permet à la nature intime d'un individu de devenir sa puissance concrète. Il ne change pas ce qu'est l'être, il l'exacerbe jusqu'à l'absolu.
+
+# Liste des pouvoirs universels des utilisateurs du Trois :
+
+| Pouvoir                                                                                  |
+| ---------------------------------------------------------------------------------------- |
+| [[WoT/70_Systèmes de pouvoirs/Pouvoirs/Aura passive de Trois\|Aura passive de Trois]] |
+| [[WoT/70_Systèmes de pouvoirs/Pouvoirs/Fusion\|Fusion]]                               |
+| [[WoT/70_Systèmes de pouvoirs/Pouvoirs/Super Trois\|Super Trois]]                     |
+| [[WoT/70_Systèmes de pouvoirs/Pouvoirs/Types d'énergies\|Types d'énergies]]           |
+
+

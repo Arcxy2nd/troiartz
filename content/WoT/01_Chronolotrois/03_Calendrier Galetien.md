@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.337+01:00","modified":"2025-12-19T15:46:19.121+01:00","published":"2025-12-19T15:46:19.121+01:00","tags":["Chronologie"],"cssclasses":""}
+{"publish":true,"created":"2025-12-17T22:06:50.337+01:00","modified":"2025-12-19T15:56:24.927+01:00","published":"2025-12-19T15:56:24.927+01:00","tags":["Chronologie"],"cssclasses":""}
 ---
 
 # 3️⃣ Calendrier Galetien
 
-**Définition :** Dernier calendrier après le [[WoT/01_Chronolotrois/02_Calendrier Lithique]].
+**Définition :** Avant-dernier calendrier après le [[WoT/01_Chronolotrois/02_Calendrier Lithique]].
 
 ## Ère des Cailloux
 | Événement                                                                                                                        | Date |
