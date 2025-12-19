@@ -224,7 +224,6 @@
 	- [[WoT/85_Idées/Chewbaquatre le yéti infiltré]]
 	- [[WoT/85_Idées/Fortnite]]
 	- [[WoT/85_Idées/Idée fantasquatre d'Arménien]]
-	- [[85_Idées/idée]]
 	- [[WoT/85_Idées/Îles avec origines du Trois (Mammouth)]]
 	- [[WoT/85_Idées/Krevetquatre]]
 	- [[WoT/85_Idées/Le négatif de la Chèvre avec Zoom et tout Savitar tout va]]
