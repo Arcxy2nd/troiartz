@@ -1,6 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-19T13:38:07.817+01:00","modified":"2025-12-19T13:39:16.568+01:00","published":"2025-12-19T13:39:16.568+01:00","tags":["idée"],"cssclasses":"","type":"idée","époque_clé":null,"inspi":null}
+{"publish":true,"created":"2025-12-21T19:44:45.622+01:00","modified":"2025-12-21T19:47:40.486+01:00","published":"2025-12-21T19:47:40.486+01:00","tags":["idée"],"cssclasses":"","type":"idée","époque_clé":null,"inspi":null,"url":"https://trello.com/c/4TMHovKH/337-fortnite","trello_board_card_id":"67c33f69b3caccd3817745b4;69384993197465cf5ba5236d","trello_plugin_note_id":"no4UQvc3mHs_7U5yhSKHT"}
 ---
+
+
+# Fortnite
 
 Inspi venant de radio du Lotus :  
 Troirdis

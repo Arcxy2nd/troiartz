@@ -1,5 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.487+01:00","modified":"2025-12-19T15:44:50.446+01:00","published":"2025-12-19T15:44:50.446+01:00","tags":["événement"],"cssclasses":"","fc-date":2003,"aat-render-enabled":true,"timelines":["trois"],"type":"événement","daté":"oui"}
+{"publish":true,"created":"2025-12-17T22:06:51.487+01:00","modified":"2025-12-24T18:50:28.119+01:00","published":"2025-12-24T18:50:28.119+01:00","tags":["événement"],"cssclasses":"","fc-date":2003,"aat-render-enabled":true,"timelines":["trois"],"type":"événement","daté":"oui","trello_board_card_id":"67c33f69b3caccd3817745b4;6833c5f38eec31ca700b3d19"}
 ---
 
-Tous les Trois prennent une forme humaine et se fondent dans la masse
+
+Début de l’émergence de Trois

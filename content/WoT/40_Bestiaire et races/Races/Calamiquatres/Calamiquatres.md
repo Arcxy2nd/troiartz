@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.129+01:00","modified":"2025-12-17T17:04:01.228+01:00","published":"2025-12-17T17:04:01.228+01:00","cssclasses":"","type":"calamiquatre","nature":"variée","affiliation":"[[Quatrodeus]]","statut":"active","tags":null,"territoire":["[[Mega Continan]]"],"canvas":["[[Personnages.canvas]]"],"Personnages":["[[Le Chauve]]"]}
+{"publish":true,"created":"2025-12-17T22:06:51.129+01:00","modified":"2025-12-24T18:23:22.792+01:00","published":"2025-12-24T18:23:22.792+01:00","cssclasses":"","type":"calamiquatre","nature":"variée","affiliation":"[[Quatrodeus]]","statut":"active","tags":null,"territoire":["[[Mega Continan]]"],"canvas":["[[Personnages.canvas]]"],"Personnages":["[[Le Chauve]]"],"trello_board_card_id":"67c33f69b3caccd3817745b4;683628d7857931930818ee0a"}
 ---
 
 

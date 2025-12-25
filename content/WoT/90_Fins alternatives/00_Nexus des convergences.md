@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-18T20:35:00.294+01:00","modified":"2025-12-18T21:47:41.860+01:00","published":"2025-12-18T21:47:41.860+01:00","tags":["bordel","alternatif"],"cssclasses":"","type":"autre","se_situe":["[[Tétraèdre]]"],"contient":["tous les mondes alternatifs"],"époque_clé":null,"inspi":["bordel"]}
+{"publish":true,"created":"2025-12-18T20:35:00.294+01:00","modified":"2025-12-24T18:54:31.151+01:00","published":"2025-12-24T18:54:31.151+01:00","tags":["bordel","alternatif"],"cssclasses":"","type":"autre","se_situe":["[[Tétraèdre]]"],"contient":["tous les mondes alternatifs"],"époque_clé":null,"inspi":["bordel"],"trello_board_card_id":"67c33f69b3caccd3817745b4;68157b0502ef40e9330c5676"}
 ---
+
 
 Le **Nexus des Convergences** est le cœur géométrique du **Monde à Trois Faces** (le tétraèdre). C'est une **singularité dense** et un point de friction intense situé là où l'influence de toutes les faces du **Tétrèdre** se heurtent de plein fouet. C'est l'instabilité de ce centre qui provoque la **fracture de la réalité**, engendrant les divergences temporelles et les fins alternatives de l'histoire.
 
@@ -36,5 +37,3 @@ Le **Nexus des Convergences** est le cœur géométrique du **Monde à Trois Fac
 | [[WoT/90_Fins alternatives/Tout n'était que trois rêves…\|Tout n'était que trois rêves…]]                                                                 |
 | [[WoT/90_Fins alternatives/World of Trois Super\|World of Trois Super]]                                                                                   |
 | [[WoT/90_Fins alternatives/Zamaquatre le voleur de fesses\|Zamaquatre le voleur de fesses]]                                                               |
-
-

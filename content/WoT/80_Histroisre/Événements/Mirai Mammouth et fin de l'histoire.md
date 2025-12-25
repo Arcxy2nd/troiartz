@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-19T15:49:35.556+01:00","modified":"2025-12-19T15:51:27.795+01:00","published":"2025-12-19T15:51:27.795+01:00","tags":["événement","épilogue"],"cssclasses":"","fc-date":13333,"fc-end":null,"aat-render-enabled":true,"timelines":["epilogue"],"type":"événement","daté":"oui"}
+{"publish":true,"created":"2025-12-19T15:49:35.556+01:00","modified":"2025-12-24T18:23:19.602+01:00","published":"2025-12-24T18:23:19.602+01:00","tags":["événement","épilogue"],"cssclasses":"","fc-date":13333,"fc-end":null,"aat-render-enabled":true,"timelines":["epilogue"],"type":"événement","daté":"oui","trello_board_card_id":"67c33f69b3caccd3817745b4;68e3f9199c2ac8111cedf464"}
 ---
 
 Le **MAMMOUTH** utilise la machine **Troispace-Nan** pour remonter le temps afin de visiter sa planète et tombe sur son lui du passé juste avant que la planète explose. Il utilise l’unique retour de sa machine pour sauver **Mikage** en le déposant sur **Taguèle**.

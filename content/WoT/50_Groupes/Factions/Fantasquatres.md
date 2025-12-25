@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.162+01:00","modified":"2025-12-12T06:13:20.438+01:00","published":"2025-12-12T06:13:20.438+01:00","cssclasses":"","type":"faction","chiffre":"[[WoT/10_Domaine primordial/Quatrodeus]]","tags":null,"canvas":["[[Personnages.canvas]]"],"Personnages":["[[M.A.I.Quatre]]","[[Mouzquatre]]","[[Quatruem]]","[[XXX]]"]}
+{"publish":true,"created":"2025-12-17T22:06:51.162+01:00","modified":"2025-12-24T18:54:59.466+01:00","published":"2025-12-24T18:54:59.466+01:00","cssclasses":"","type":"faction","chiffre":"[[WoT/10_Domaine primordial/Quatrodeus]]","tags":null,"canvas":["[[Personnages.canvas]]"],"Personnages":["[[M.A.I.Quatre]]","[[Mouzquatre]]","[[Quatruem]]","[[XXX]]"],"trello_board_card_id":"67c33f69b3caccd3817745b4;681c90ccc5a2988834d7995f"}
 ---
 
 

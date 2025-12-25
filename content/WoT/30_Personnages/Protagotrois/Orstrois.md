@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.823+01:00","modified":"2025-12-17T22:00:17.594+01:00","published":"2025-12-17T22:00:17.594+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[Mammouth]]","race":["[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🐲"}
+{"publish":true,"created":"2025-12-17T22:06:50.823+01:00","modified":"2025-12-21T20:58:15.957+01:00","published":"2025-12-21T20:58:15.957+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[Mammouth]]","race":["[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🐲","trello_plugin_note_id":"qBpRWIiaWPPKCqh_2kFAX","trello_board_card_id":"67c33f69b3caccd3817745b4;68115e429b2d64068417729d"}
 ---
 
 
@@ -152,3 +152,5 @@ Chaque 333 jours (donc année), il devient exponentiellement 0.1% plus puissant.
 #### Elle génère un immense dôme de quartz, avec pour intérieur l’infini sidéral, entouré de la ceinture d’astéroïdes.
 
 #### Orstrois pourvu de sa lame, s'élance à la vitesse de la lumière et tranche les astéroïdes en cailloux de 3 cm³, et les propulse à Mach 3 sur les cibles se situant à l’intérieur du territrois, les réduisant en poussière.
+
+

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-18T21:02:00.182+01:00","modified":"2025-12-18T21:02:05.887+01:00","published":"2025-12-18T21:02:05.887+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative"}
+{"publish":true,"created":"2025-12-18T21:02:00.182+01:00","modified":"2025-12-24T18:23:18.559+01:00","published":"2025-12-24T18:23:18.559+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative","trello_board_card_id":"67c33f69b3caccd3817745b4;6925d48fa1fec0b0478cccb3"}
 ---
 
 ## **Le QUATREMMOUTH, le retour du roi**

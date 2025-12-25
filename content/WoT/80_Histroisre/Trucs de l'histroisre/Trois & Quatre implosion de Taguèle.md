@@ -1,5 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.399+01:00","modified":"2025-12-17T17:25:41.734+01:00","published":"2025-12-17T17:25:41.734+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["trois"]}
+{"publish":true,"created":"2025-12-17T22:06:51.399+01:00","modified":"2025-12-24T18:50:31.357+01:00","published":"2025-12-24T18:50:31.357+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["trois"],"trello_board_card_id":"67c33f69b3caccd3817745b4;6833c5f38eec31ca700b3d19"}
 ---
 
-Le Trois et le Quatre = trop plein = destruction de Taguèle. Les forcent se rejettent l’une l’autre jusqu’à qu’elles implosent et détruisent le monde (Taguèle). Des faisceaux de lumières jaillissent du sol et boum plus de Taguèle.
+
+Début de l’émergence de Trois

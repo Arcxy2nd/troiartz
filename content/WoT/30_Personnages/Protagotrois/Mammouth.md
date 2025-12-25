@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.817+01:00","modified":"2025-12-17T17:37:31.706+01:00","published":"2025-12-17T17:37:31.706+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[TroisPiliers]]","race":["[[Troiyans]]","[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🦣"}
+{"publish":true,"created":"2025-12-17T22:06:50.817+01:00","modified":"2025-12-21T20:57:06.626+01:00","published":"2025-12-21T20:57:06.626+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[TroisPiliers]]","race":["[[Troiyans]]","[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🦣","trello_plugin_note_id":"H5ZFOE1YZ_62hkysAvNJK","trello_board_card_id":"67c33f69b3caccd3817745b4;67eccba693eacbc28c77d91b"}
 ---
 
 # Infobox :
@@ -130,3 +130,5 @@ L'Aiguille Divine (Tri Astral) traverse toute défense pour frapper le cœur de 
 # Trucs nan :
 
 **Il dit souvent à la Chèvre de femmer sa guèle**
+
+

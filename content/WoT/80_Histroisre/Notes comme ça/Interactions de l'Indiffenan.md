@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-19T15:57:00.095+01:00","modified":"2025-12-19T15:58:24.057+01:00","published":"2025-12-19T15:58:24.057+01:00","tags":["note","Indiffenan"],"cssclasses":"","type":"note"}
+{"publish":true,"created":"2025-12-19T15:57:00.095+01:00","modified":"2025-12-24T18:54:55.369+01:00","published":"2025-12-24T18:54:55.369+01:00","tags":["note","Indiffenan"],"cssclasses":"","type":"note","trello_board_card_id":"67c33f69b3caccd3817745b4;69266dc6a367add984e7f539"}
 ---
+
 
 # Liste des événements causés par l’_**Indiffenan**_ :
 ‌

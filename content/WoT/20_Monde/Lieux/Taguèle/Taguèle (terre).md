@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.592+01:00","modified":"2025-12-18T21:34:41.082+01:00","published":"2025-12-18T21:34:41.082+01:00","cssclasses":"","type":"lieu","type de lieu":"terre","se_situe":["[[Femtaguèle (lac)]]"],"contient":["[[Najhariyya]]","[[Nouvelle Aliksaria]]","[[Orotreia]]","[[Pays de Troisguèle]]","[[Shogunat d'Iwagen]]","[[République de Tetrania]]"],"époque_clé":["[[03_Calendrier Galetien#Ère des Cailloux]]","[[01_Calendrier Zérique]]"],"inspi":null,"tags":null,"canvas":["[[03_Troisième face.canvas]]"],"03_Troisième face":["[[Plurwak]]","[[Taguèle (terre implosée)]]","[[Caverne du BigFoot]]"]}
+{"publish":true,"created":"2025-12-17T22:06:50.592+01:00","modified":"2025-12-25T01:16:57.966+01:00","published":"2025-12-25T01:16:57.966+01:00","cssclasses":"","type":"lieu","type de lieu":"terre","se_situe":["[[Femtaguèle (lac)]]"],"contient":["[[Najhariyya]]","[[Nouvelle Aliksaria]]","[[Orotreia]]","[[Pays de Troisguèle]]","[[Shogunat d'Iwagen]]","[[République de Tetrania]]"],"époque_clé":["[[03_Calendrier Galetien#Ère des Cailloux]]","[[01_Calendrier Zérique]]"],"inspi":null,"tags":null,"canvas":["[[03_Troisième face.canvas]]"],"03_Troisième face":["[[Plurwak]]","[[Taguèle (terre implosée)]]","[[Caverne du BigFoot]]"],"trello_board_card_id":"67c33f69b3caccd3817745b4;6833dc08e7a4f9a77708fa55","trello_plugin_note_id":"PJ8QhM1MfsqQ7rh1SKsRO"}
 ---
+
 
 # Infobox :
 

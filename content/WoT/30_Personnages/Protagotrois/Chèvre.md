@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.806+01:00","modified":"2025-12-17T17:37:31.696+01:00","published":"2025-12-17T17:37:31.696+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[TroisPiliers]]","race":["[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🐐"}
+{"publish":true,"created":"2025-12-17T22:06:50.806+01:00","modified":"2025-12-21T20:57:38.351+01:00","published":"2025-12-21T20:57:38.351+01:00","tags":["protagotrois"],"cssclasses":"","type":"personnage","affiliation":"[[TroisPiliers]]","race":["[[Cailloux]]"],"chiffre":"[[Trois]]","canvas":["[[Personnages.canvas]]"],"Personnages":[],"icon":"🐐","trello_plugin_note_id":"W7PUtF-GzzjTPpyvPtFmK","trello_board_card_id":"67c33f69b3caccd3817745b4;67f6cd276c4f58617db803fb"}
 ---
 
 
@@ -57,3 +57,5 @@
 ~~Condition :~~
 
 - ~~Il doit absolument revenir de 333 ans, et revenir 3 secondes après le lancement de la capacité, sinon il reste bloqué où il s'est arrêté, pétrifié mais conscient (Senku)~~
+
+

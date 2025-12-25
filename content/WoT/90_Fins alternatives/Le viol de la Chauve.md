@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-18T21:03:23.722+01:00","modified":"2025-12-18T21:03:29.883+01:00","published":"2025-12-18T21:03:29.883+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative"}
+{"publish":true,"created":"2025-12-18T21:03:23.722+01:00","modified":"2025-12-24T18:23:18.471+01:00","published":"2025-12-24T18:23:18.471+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative","trello_board_card_id":"67c33f69b3caccd3817745b4;6925d5819fc8dacd16fc1449"}
 ---
 
 ## **Le viol de la Chauve (version BigFoot)**

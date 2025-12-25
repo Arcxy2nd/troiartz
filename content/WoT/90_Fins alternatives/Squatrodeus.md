@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-18T21:03:35.257+01:00","modified":"2025-12-18T21:03:39.148+01:00","published":"2025-12-18T21:03:39.148+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative"}
+{"publish":true,"created":"2025-12-18T21:03:35.257+01:00","modified":"2025-12-24T18:23:17.960+01:00","published":"2025-12-24T18:23:17.960+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative","trello_board_card_id":"67c33f69b3caccd3817745b4;6928ce3cedc3f7ddc6a36182"}
 ---
 
 # **Scatrodeus le Quatre de MERDE**

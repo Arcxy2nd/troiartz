@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-18T20:50:36.615+01:00","modified":"2025-12-18T20:59:28.912+01:00","published":"2025-12-18T20:59:28.912+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative"}
+{"publish":true,"created":"2025-12-18T20:50:36.615+01:00","modified":"2025-12-24T18:23:18.350+01:00","published":"2025-12-24T18:23:18.350+01:00","tags":["alternatif"],"cssclasses":"","type":"fin alternative","trello_board_card_id":"67c33f69b3caccd3817745b4;6923c08af49b479b952c5787"}
 ---
 
 ## **Les quatre Arméniens :**

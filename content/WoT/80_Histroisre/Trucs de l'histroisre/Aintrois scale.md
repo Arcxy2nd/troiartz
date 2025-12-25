@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.295+01:00","modified":"2025-12-17T18:16:24.170+01:00","published":"2025-12-17T18:16:24.170+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["troisvengers"]}
+{"publish":true,"created":"2025-12-17T22:06:51.295+01:00","modified":"2025-12-24T18:23:21.202+01:00","published":"2025-12-24T18:23:21.202+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["troisvengers"],"trello_board_card_id":"67c33f69b3caccd3817745b4;68bc6bf2dfdb5f45e6011736"}
 ---
 
 L’Arménien fait le jeu parce qu’il faisait chier la Chèvre.

@@ -1,0 +1,1 @@
+<%* tp.user.trello_batch_sync(tp) %>

@@ -1,0 +1,1 @@
+<%* tp.user.trello_global_linker(tp) %>

@@ -1,5 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.384+01:00","modified":"2025-12-19T13:34:10.844+01:00","published":"2025-12-19T13:34:10.844+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["cailloux"],"inspi":["My Hero Academia","épilogue"]}
+{"publish":true,"created":"2025-12-17T22:06:51.384+01:00","modified":"2025-12-24T18:50:33.168+01:00","published":"2025-12-24T18:50:33.168+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["cailloux"],"inspi":["My Hero Academia","épilogue"],"trello_board_card_id":"67c33f69b3caccd3817745b4;6833c5f38eec31ca700b3d19"}
 ---
 
-Az-nan est envoyé en exploration du Méga Continan après que les Orotrois découvrent ses pouvoirs avec d'autres guildes
+
+Début de l’émergence de Trois
