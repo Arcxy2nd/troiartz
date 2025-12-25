@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.350+01:00","modified":"2025-12-24T19:32:53.495+01:00","published":"2025-12-24T19:32:53.495+01:00","tags":["Chronologie","Index"],"cssclasses":"","trello_plugin_note_id":"q1E-boKPHJXHaoCo31SRC","trello_board_card_id":"67c33f69b3caccd3817745b4;694c3149027bce14b3747e41"}
+{"publish":true,"created":"2025-12-17T22:06:50.350+01:00","modified":"2025-12-25T03:10:55.725+01:00","published":"2025-12-25T03:10:55.725+01:00","tags":["Chronologie","Index"],"cssclasses":"","trello_plugin_note_id":"q1E-boKPHJXHaoCo31SRC","trello_board_card_id":"67c33f69b3caccd3817745b4;694c3149027bce14b3747e41"}
 ---
+
 
 # ⏳ La Chronolotrois :
 Guide des calendriers servant de repère pour construire l’histoire.

@@ -1,6 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-19T15:36:56.960+01:00","modified":"2025-12-24T18:50:30.745+01:00","published":"2025-12-24T18:50:30.745+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["cailloux"],"trello_board_card_id":"67c33f69b3caccd3817745b4;6833c5f38eec31ca700b3d19"}
+{"publish":true,"created":"2025-12-19T15:36:56.960+01:00","modified":"2025-12-25T03:08:22.758+01:00","published":"2025-12-25T03:08:22.758+01:00","tags":["histoire"],"cssclasses":"","type":"histoire","daté":"non","timelines":["cailloux"],"trello_plugin_note_id":"MwWeL-p9YIbU0jc_8Phb3","trello_board_card_id":"67c33f69b3caccd3817745b4;681a898cd39dcece49a5db96"}
 ---
 
-
-Début de l’émergence de Trois
+La Chèvre dans sa forme humanoïde appelle Orstrois par téléphone (oui on est dans une époque ou y’a le téléphone blyat) ils se donnent rendez-vous à la première édiTrois du Troiskaichi Budoinrgh pour observer si le Quatre ne s’est pas infiltré dans ce tournoi. Ils voient de loin YujiTrois, Troiski et HanayaTrois s’inscrire pour participer au Tournoi. Une chose que personne n’avait remarqué c'était la présence du MAMMOUTH dans sa forme humanoïde qui voulait participer au tournoi caché sous sa cape (en mode ta3 les mystéTrois). Pourquoi se cache-t-il c’est pour éviter que La Chèvre et Orstrois ne le reconnaissent.

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.388+01:00","modified":"2025-12-25T01:21:32.002+01:00","published":"2025-12-25T01:21:32.002+01:00","tags":["entite_primordiale","chiffre"],"cssclasses":"","type":"[[Entites primordiales]]","affiliation":["[[WoT/10_Domaine primordial/Nean-Zero]]","[[INRGH & Gueu]]"],"trello_plugin_note_id":"TClE5GzPsllZoSvrY4gZE","trello_board_card_id":"67c33f69b3caccd3817745b4;67eccba077859771844047ba"}
+{"publish":true,"created":"2025-12-17T22:06:50.388+01:00","modified":"2025-12-25T03:10:54.521+01:00","published":"2025-12-25T03:10:54.521+01:00","tags":["entite_primordiale","chiffre"],"cssclasses":"","type":"[[Entites primordiales]]","affiliation":["[[WoT/10_Domaine primordial/Nean-Zero]]","[[INRGH & Gueu]]"],"trello_plugin_note_id":"TClE5GzPsllZoSvrY4gZE","trello_board_card_id":"67c33f69b3caccd3817745b4;67eccba077859771844047ba"}
 ---
+
 
 # 🌌 Le Trois : L'Éveil de la Première Conscience
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:51.238+01:00","modified":"2025-12-25T01:08:25.669+01:00","published":"2025-12-25T01:08:25.669+01:00","tags":["pouvoirs"],"cssclasses":"","type":"système de pouvoir","trello_plugin_note_id":"xTTPUJLD0Yjx51Nx8Uk-S","trello_board_card_id":"67c33f69b3caccd3817745b4;694c7f38e7ca2d98450c7b3d"}
+{"publish":true,"created":"2025-12-17T22:06:51.238+01:00","modified":"2025-12-25T03:10:10.100+01:00","published":"2025-12-25T03:10:10.100+01:00","tags":["pouvoirs"],"cssclasses":"","type":"système de pouvoir","trello_plugin_note_id":"xTTPUJLD0Yjx51Nx8Uk-S","trello_board_card_id":"67c33f69b3caccd3817745b4;694c7f38e7ca2d98450c7b3d"}
 ---
 
 
