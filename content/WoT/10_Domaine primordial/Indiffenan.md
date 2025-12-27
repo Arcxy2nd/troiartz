@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-17T22:06:50.369+01:00","modified":"2025-12-24T18:55:22.645+01:00","published":"2025-12-24T18:55:22.645+01:00","tags":["entite_primordiale"],"cssclasses":"","type":"unique","affiliation":["[[Nean-Zero]]"],"trello_board_card_id":"67c33f69b3caccd3817745b4;68a615adae79d2c36f8951f8"}
+{"publish":true,"created":"2025-12-17T22:06:50.369+01:00","modified":"2025-12-26T01:56:17.275+01:00","published":"2025-12-26T01:56:17.275+01:00","tags":["entite_primordiale"],"cssclasses":"","type":"unique","affiliation":["[[Nean-Zero]]"],"trello_board_card_id":"67c33f69b3caccd3817745b4;68a615adae79d2c36f8951f8","trello_plugin_note_id":"b2MZjLIIzix0_j61YHvOV"}
 ---
 
 
